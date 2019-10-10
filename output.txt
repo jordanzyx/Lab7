@@ -1,0 +1,5 @@
+Charged: 81.90 : Average Price per hour 7.45
+Charged: 129.66 : Average Price per hour 3.71
+Charged: 177.42 : Average Price per hour 3.01
+Charged: 193.33 : Average Price per hour 2.89
+Charged: 268.96 : Average Price per hour 2.57
